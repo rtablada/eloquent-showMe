@@ -4,7 +4,7 @@ use Illuminate\Database\Eloquent\Model as Eloquent;
 
 class Model extends Eloquent
 {
-	protected $includeInArray = array();
+	protected $includeInToArray = array();
 
 	/**
 	 * Convert the model's attributes to an array.
