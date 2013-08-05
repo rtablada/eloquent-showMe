@@ -1,6 +1,6 @@
 {
     "name": "rtablada/eloquent-show-me",
-    "description": "",
+    "description": "Allows `shown` property on Eloquent Models",
     "authors": [
         {
             "name": "Ryan Tablada",
